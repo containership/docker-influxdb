@@ -1,5 +1,5 @@
 {
-  "name": "docker-influxdb",
+  "name": "@containership/containership.marketplace.influxdb",
   "private": true,
   "description": "Docker image designed to run an influxdb cluster on ContainerShip",
   "main": "influxdb.js",
